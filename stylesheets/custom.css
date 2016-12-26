@@ -1,0 +1,10 @@
+#headshot {
+  display: block;
+  margin: auto;
+  width: 40%;
+  border-radius: 25px;
+}
+
+#tagline {
+  text-align: center;
+}
