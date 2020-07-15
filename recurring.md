@@ -69,6 +69,8 @@ Busy week coming up? Test on Friday? More time with Hamilton would help? No prob
 
 Just head over to [my Appointlet page](https://hamilton.appointlet.com) and book yourself another session! You'll receive a separate confirmation email from Appointlet that will let you manage this session, totally independently of your recurring session.
 
+-------------
+
 **Please note** that all of these changes are subject to my scheduling policies and expectations for next year:
 
 ### Scheduling Policies and Expectations
