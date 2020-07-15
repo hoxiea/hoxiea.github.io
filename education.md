@@ -19,7 +19,7 @@ Combined GPA: 3.97 / 4.00 ([transcript](/static/bu_transcript.pdf))
 
 Awards and Honors:
 
-- [Trustee Scholarship](https://www.bu.edu/admissions/apply/costs-aid-scholarships/scholarships/trustee/)
+- [Trustee Scholarship](https://www.bu.edu/admissions/tuition-aid/scholarships-financial-aid/first-year-merit/trustee/)
 - College Prize for Excellence in Statistics (voted by Mathematics department)
 - Harold C. Case Scholar (in recognition of "outstanding character and achievement")
 - Summa Cum Laude
@@ -32,10 +32,10 @@ Awards and Honors:
 Awards and Honors:
 
 - Cum Laude
-- Founder's Council [Award for Instrumental Music](http://www.pinecrest.edu/page/news-detail?pk=178958)
-- National Council of Teachers in English writing award
+- Founder's Council Award for Instrumental Music
+- National Council of Teachers in English Writing Award
 - National Merit Scholar
 - National AP Scholar
-- Voted "Most Talented" by my class
+- Voted "Most Talented" for Senior Superlatives
 
 
