@@ -15,17 +15,16 @@ Appointlet:
 
 This page explains the simple rules that Appointlet follows when managing my schedule. Understanding these rules will make it much easier for you to consistently book times that are convenient for you.
 
-### Appointlet offers sessions as soon as 12 hours ahead
+### 1. Appointlet offers sessions as soon as 12 hours ahead
 If you realize after a long school day that you could use some help, you'll be able to get the help you need during an available time the following day.
 
-### Appointlet offers sessions as far as 2 weeks ahead
+### 2. Appointlet offers sessions as far as 2 weeks ahead
 For students with important assignments on the horizon or who just love planning ahead, Appointlet offers session times as far as two weeks in advance. (You may need to use the right arrow to find them, especially if you're using your phone, but they're there!)
 
 <img src="/static/images/appointlet/2weeks-arrow.jpg" alt="When selecting a session time, the right arrow will help you see sessions up to 2 weeks in the future" title="How to find sessions farther in the future" height="220" />
 
-<br>
 
-### Cancel up to 24 hours before the session starts
+### 3. Cancel up to 24 hours before the session starts
 With more than 24 hours until a session starts, you can use any Appointlet email for that session to reschedule or cancel.
 
 <img src="/static/images/appointlet/cancel-reschedule.jpg" alt="Use the Cancel / Reschedule button in Appointlet emails to cancel or reschedule your session with 24 hours or more until the session starts" title="How to cancel/reschedule a session with more than 24 hours to go" height="130"/>
@@ -41,9 +40,8 @@ If you click either button and follow the prompts,
 
 With this simple interface, you can make changes to your sessions without waiting for me!
 
-<br>
 
-### No canceling less than 24 hours before the session starts
+### 4. No canceling less than 24 hours before the session starts
 Once we’re within 24 hours of the session starting, the requested time is yours - congratulations!
 
 Clicking the "Cancel / Reschedule" button in an Appointlet email for the session will still take you to a summary of the session, but you *won't* see the options to Reschedule or Cancel:
@@ -60,7 +58,7 @@ For this last reason, you will be financially responsible for the time you booke
 
 Please note that sessions can be requested with less than 24 hours to go, so if you're requesting a last-minute session, please make sure that you're really interested! You won't be able to cancel it once you've submitted your session request.
 
-### Reminder emails are sent in time to cancel
+### 5. Reminder emails are sent in time to cancel
 Reminder emails are sent 48 and 72 hours before a session starts, giving you multiple opportunities to easily cancel your session if the time no longer works for you.
 
 
