@@ -37,5 +37,3 @@ Awards and Honors:
 - National Merit Scholar
 - National AP Scholar
 - Voted "Most Talented" for Senior Superlatives
-
-
