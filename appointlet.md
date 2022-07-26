@@ -1,10 +1,8 @@
 ---
 layout: page
-title: appointlet
+title: Appointlet Policies and Tips
 permalink: /appointlet/
 ---
-
-## Appointlet Policies and Tips
 
 For the Fall 2022 semester, I will be using [Appointlet](https://hamilton.appointlet.com) for all my tutoring scheduling.
 Appointlet:
