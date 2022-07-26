@@ -17,6 +17,8 @@ B.A. in Mathematics, Specialty in Statistics
 
 Combined GPA: 3.97 / 4.00 ([transcript](/static/bu_transcript.pdf))
 
+Major GPA: 4.00 / 4.00
+
 Awards and Honors:
 
 - [Trustee Scholarship](https://www.bu.edu/admissions/tuition-aid/scholarships-financial-aid/first-year-merit/trustee/)
