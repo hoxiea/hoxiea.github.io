@@ -1,5 +1,6 @@
 ---
 layout: page
+title: appointlet
 permalink: /appointlet/
 ---
 
