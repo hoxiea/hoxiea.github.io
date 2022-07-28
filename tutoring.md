@@ -45,6 +45,7 @@ College and graduate courses I have helped students succeed with include:
 * Multivariate Calculus
 * Introduction to Statistics
 * Microeconomics
+* Econometrics / Economic Statistics
 * Psychometrics
 * GRE Math
 

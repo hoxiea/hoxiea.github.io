@@ -8,3 +8,7 @@
 #tagline {
   text-align: center;
 }
+
+.screenshot {
+    border: 1px solid #555;
+}

@@ -28,5 +28,4 @@ In 2012, I moved back to sunny South Florida to figure out what *was* for me. I 
 
 In July 2022, I moved to Spokane, WA with my partner [Samantha](https://www.linkedin.com/in/samantha-lynn-wilder/) to explore another part of the country. It's been a blast so far, and I'm excited for more hiking and the upcoming school year!
 
-<!--  LocalWords:  slidey Ars Flores Fennell Judd BA MA UC Biogen Idec
- -->
+<img src="/static/images/bio/geiger.JPG" title="Overnight backpacking near Geiger Lakes, MT" />
