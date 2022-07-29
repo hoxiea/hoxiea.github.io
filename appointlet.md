@@ -69,7 +69,7 @@ Suppose, for example, you wanted to work with me every Sunday 7-8pm, starting 9/
 1. Request your first session (9/4 7-8pm) when it first becomes visible: exactly two weeks prior, on 8/21 at 8pm.
 2. Request your second session (9/11 7-8pm) when it first becomes visible: exactly two weeks prior, on 8/28 at 8pm.
 3. Request your third session (9/18 7-8pm) when it first becomes visible: exactly two weeks prior, on 9/4 at 8pm. **But 9/4 at 8pm is exactly when your first session ends!** So once we're done with our first session, take 30 seconds to visit [my Appointlet page](https://appt.link/hamilton) and request your preferred time in 2 weeks.
-4. Request 9/25 7-8pm when it first becomes visible: exactly two weeks prior, on 9/11 at 8pm. **But 9/11 at 8pm is exactly when your second session ends!** Grab that future time!
+4. Request your fourth session (9/25 7-8pm) when it first becomes visible: exactly two weeks prior, on 9/11 at 8pm. **But 9/11 at 8pm is exactly when your second session ends!** Grab that future time!
 5. (...repeat this process of booking exactly 2 weeks out for as long as it makes sense...)
 
 So once you have those first two sessions booked, your desired timeslot (two weeks away) should become available at the moment each of our sessions end - you'll be in front of your computer, thinking about tutoring, and you can take a few seconds to request another session.
