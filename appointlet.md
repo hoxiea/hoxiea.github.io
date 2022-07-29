@@ -42,7 +42,7 @@ Once we’re within 24 hours of the session starting, the requested time is your
 
 You can still click the Cancel or Reschedule buttons from your email, but you'll see an error message:
 
-<img src="/static/images/appointlet/failed-cancel-small.png" class="screenshot"/>
+<img src="/static/images/appointlet/failed-cancel-resized.png" class="screenshot"/>
 
 Because other students have been unable to request this time from the moment you requested it, you will be financially responsible for the time you booked, whether or not you're able to attend.
 
