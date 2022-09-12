@@ -27,5 +27,3 @@ After working for a year as a statistical geneticist and R programmer at [Biogen
 In 2012, I moved back to sunny South Florida to figure out what *was* for me. I took a bunch of online courses related to computer science, programming, and behavioral psychology. I also started [supporting students](https://www.instagram.com/ftlaudmathtutor/) in South Florida and around the country/world in their academic endeavors as a private tutor, an activity that I enjoy immensely and am now far past the 10,000-hour mark.
 
 In July 2022, I moved to Spokane, WA with my partner [Samantha](https://www.linkedin.com/in/samantha-lynn-wilder/) to explore another part of the country. It's been a blast so far, and I'm excited for more hiking and the upcoming school year!
-
-<img src="/static/images/bio/montana.JPG" title="Overnight backpacking near Geiger Lakes, MT" />
