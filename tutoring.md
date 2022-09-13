@@ -37,18 +37,18 @@ College and graduate courses I have helped students succeed with include:
   * Java
   * C++
 * Discrete / Finite Mathematics
+* Introduction to Statistics
+* Regression
 * Probability
 * Machine Learning
 * Data Science
 * Business Operations
 * Business Analytics
-* Multivariate Calculus
-* Introduction to Statistics
 * Microeconomics
 * Econometrics / Economic Statistics
 * Psychometrics
 * GRE Math
 
-In addition to Python, Java, and C++, I also have experience with HTML, Javascript, CSS, PHP, SQL, R, Clojure, Scala, Julia, and probably other languages that I'm forgetting.
+In addition to the Python, Java, and C++ mentioned above, I also have experience with HTML, Javascript, CSS, PHP, SQL, R, Clojure, Scala, Julia, and probably other languages that I'm forgetting.
 
 For more information, check out the totally-out-of-date [Wall of Fame!](http://instagram.com/ftlaudmathtutor)
